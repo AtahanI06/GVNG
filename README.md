@@ -1,2 +1,1 @@
-# GVNG
-GVNG BOTU
+Loz Bey sunucusu için WenSamita Neiva Tarafından Oluşturulmuştur
